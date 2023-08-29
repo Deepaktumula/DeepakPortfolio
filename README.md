@@ -1,5 +1,6 @@
 ## My Portfolio Website
-Welcome to my personal portfolio website! This website showcases my skills, projects, and provides an overview of who I am as a professional.<br> It's built using HTML and CSS to create an elegant and responsive design.
+Welcome to my personal portfolio website! <br>
+This website showcases my skills, projects, and provides an overview of who I am as a professional.<br> It's built using HTML and CSS to create an elegant and responsive design.
 
 ## Features
 Responsive design that adapts to different screen sizes.
