@@ -9,7 +9,7 @@ Contact information for reaching out.
 
 1) Getting Started
 Clone the repository:
-git clone https://github.com/your-username/portfolio-website.git
+https://github.com/Deepaktumula/DeepakPortfolio.git
 
 2) Navigate to the project directory:
 cd portfolio-website
